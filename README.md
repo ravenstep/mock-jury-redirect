@@ -1,1 +1,1 @@
-# mock-jury-redirect
+index.html
